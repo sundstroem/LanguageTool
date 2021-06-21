@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/anders/.sbt/boot/scala-2.12.10/lib/scala-library.jar -classpath /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes /home/anders/Omat/LanguageTool/build/src/main/scala/example/Hello.scala

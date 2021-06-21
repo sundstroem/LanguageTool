@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [build / Compile / compile] Found inputs: /home/anders/Omat/LanguageTool/build/*.{java,scala},/home/anders/Omat/LanguageTool/build/src/main/java/**/*.{java,scala},/home/anders/Omat/LanguageTool/build/src/main/resources/**/*,/home/anders/Omat/LanguageTool/build/src/main/scala/**/*.{java,scala},/home/anders/Omat/LanguageTool/build/src/main/scala-2.12/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for build/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for build/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
