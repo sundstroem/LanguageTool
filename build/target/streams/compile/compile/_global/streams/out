@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala:34:56: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : java.io.Serializable[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m        val name = modules.tail.fold("")((a, b) => a + b)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

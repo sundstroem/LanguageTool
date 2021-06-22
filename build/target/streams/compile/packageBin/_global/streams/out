@@ -1,11 +1,13 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /home/anders/Omat/LanguageTool/build/target/scala-2.12/build_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/example[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example/Hello$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/example/Hello$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example/Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/example/Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example/Hello$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/example/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/FileParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/FileParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/target/scala-2.12/classes/Interface$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
