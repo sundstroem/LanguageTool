@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [languagetool / Compile / compile] Found inputs: /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/*.{java,scala},/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/src/main/java/**/*.{java,scala},/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/src/main/resources/**/*,/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/src/main/scala/**/*.{java,scala},/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/src/main/scala-2.12/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for languagetool/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlanguagetool / Compile / compile - Accepted event for /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala (previous stamp: Hash(b41e8c9f325d0be2d80024e99c6e370b06d55b5c), current stamp: Hash(57ddf0e6552109b877faf488254e83f0fa2fe29e))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala -> Trigger. Returning: (Update(/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala, 2021-Jun-22 07:12:39.508 EET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala, 2021-Jun-22 07:12:39.508 EET).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for languagetool/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for languagetool/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/languagetool_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModuleHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/ModuleHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModuleHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/ModuleHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	module/Module.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/module/Module.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/FileHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/FileHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/target/scala-2.12/classes/Interface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

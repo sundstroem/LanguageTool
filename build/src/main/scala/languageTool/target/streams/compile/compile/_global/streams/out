@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/Interface.scala:4:26: imported `FileHandler' is permanently hidden by definition of object FileHandler[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport java.util.logging.FileHandler[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/anders/Omat/LanguageTool/build/src/main/scala/languageTool/ModuleHandler.scala:21:22: constructor Module in class Module cannot be accessed in object ModuleHandler[0m
+[0m[[0m[31merror[0m] [0m[0m        val module = new Module(name)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
